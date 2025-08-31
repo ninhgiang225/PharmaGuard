@@ -1,4 +1,4 @@
-# Drug Data Engineering Project
+# PharmaGuard
 
 **Author:** Ninh Giang Nguyen
 
